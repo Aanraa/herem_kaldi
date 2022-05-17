@@ -1,0 +1,17 @@
+!SIL !SIL SIL_S
+<UNK> <UNK> SPN_S
+<eps> <eps> SIL
+ас ас ah_B s_E
+гал гал gh_B a0_I l_E
+гал гал gh_B ah_I l_E
+гэрэл гэрэл gh_B eh_I r_I eh_I l_E
+гэрэл гэрэл gh_B er_I eh_I el_E
+тогооны тогооны th_B o0_I gh_I o0_I ni_E
+тогооны тогооны th_B o_I g_I oh_I ni_E
+том том t_B u0_I m_E
+том том t_B uh_I m_E
+унтар унтар uh_B n_I t_I ah_I r_E
+хэрэм хэрэм h_B e_I r_I em_E
+хэрэм хэрэм kh_B eh_I er_I em_E
+өрөөний өрөөний o0_B r_I u1_I ni_E
+өрөөний өрөөний uh_B ru_I ni_E
